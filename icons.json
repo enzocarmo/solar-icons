@@ -1,10 +1,10 @@
 [
   {
-    "name": "eye-closed-linear",
-    "class": "iconify-solar--eye-closed-linear"
+    "name": "eye",
+    "class": "iconify-mage--eye"
   },
   {
-    "name": "eye-linear",
-    "class": "iconify-solar--eye-linear"
+    "name": "eye-closed",
+    "class": "iconify-mage--eye-closed"
   }
 ]
